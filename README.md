@@ -33,7 +33,7 @@
 
 下载 `dist/campuslogin.exe`，双击运行即可。你可以直接从[release](https://github.com/muge-heng/CUMT-Network-Login/releases)下载。
 
-> Windows SmartScreen 可能弹出警告，点击"更多信息"→"仍要运行"即可。
+>您应该使用Windows系统运行exe程序。
 
 ### 方法二：从源码运行
 
